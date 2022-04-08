@@ -1,0 +1,10 @@
+1;marius;456
+2;Petraru Ioana;915
+3;Rascolean Patricia;916
+4;Bozea Alexandru;918
+6;George Michael;920
+7;Tataru Diana;918
+8;Andreica Daniel;917
+10;Popescu Alexandru;915
+11;sakjds;67
+5;Popescu Ionut;917

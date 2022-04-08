@@ -1,0 +1,10 @@
+5;3;None
+6;2;None
+8;4;None
+9;8;None
+10;8;None
+5;9;None
+8;2;None
+10;5;None
+5;7;None
+2;2;None

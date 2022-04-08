@@ -1,0 +1,298 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0039fb5a-16ed-4cf5-90bb-3522646771ee" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assignments.pickle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/domain/appcoordination.py" beforeDir="false" afterPath="$PROJECT_DIR$/domain/appcoordination.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/domain/iterableclass.py" beforeDir="false" afterPath="$PROJECT_DIR$/domain/auxil.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/domain/validators.py" beforeDir="false" afterPath="$PROJECT_DIR$/domain/validators.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/graded.pickle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/graded.txt" beforeDir="false" afterPath="$PROJECT_DIR$/graded.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/infrastructure/repositories.py" beforeDir="false" afterPath="$PROJECT_DIR$/infrastructure/repositories.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/services/service.py" beforeDir="false" afterPath="$PROJECT_DIR$/services/service.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/students.pickle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/students.txt" beforeDir="false" afterPath="$PROJECT_DIR$/students.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ui/console.py" beforeDir="false" afterPath="$PROJECT_DIR$/ui/console.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ungraded.pickle" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageOptionsProvider">
+    <option name="myAddOrReplace" value="1" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="JupyterTrust" id="f922030d-c024-4fa9-971f-e4e335bc5fa2" />
+  <component name="ProjectId" id="1jbovGdoM06YaflAsZxXmVXzDD6" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../a11-915-mitrofan-alexandru/src" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.General" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\1\Documents\GitHub\a678-915-mitrofan-alexandru\src\domain" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.main">
+    <configuration name="auxil" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="src" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/domain" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\1\Documents\GitHub\a10-915-mitrofan-alexandru\src\domain\auxil.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="src" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="repositories" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="src" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/infrastructure" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/infrastructure/repositories.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests in C:/Users/1/Documents/GitHub/a10-915-mitrofan-alexandru/src/tests/testing.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="src" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/tests/testing.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests in test.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="src" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/test/test.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.main" />
+        <item itemvalue="Python tests.Unittests in test.py" />
+        <item itemvalue="Python.auxil" />
+        <item itemvalue="Python tests.Unittests in C:/Users/1/Documents/GitHub/a10-915-mitrofan-alexandru/src/tests/testing.py" />
+        <item itemvalue="Python.repositories" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0039fb5a-16ed-4cf5-90bb-3522646771ee" name="Default Changelist" comment="" />
+      <created>1604082380395</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604082380395</updated>
+      <workItem from="1604082381652" duration="1035000" />
+      <workItem from="1604139592197" duration="8032000" />
+      <workItem from="1604304860050" duration="35857000" />
+      <workItem from="1604390674530" duration="4124000" />
+      <workItem from="1604664136620" duration="802000" />
+      <workItem from="1604669626212" duration="307000" />
+      <workItem from="1605382657872" duration="5397000" />
+      <workItem from="1605434394061" duration="28488000" />
+      <workItem from="1605600030054" duration="4798000" />
+      <workItem from="1605743977265" duration="28000" />
+      <workItem from="1605782158116" duration="1197000" />
+      <workItem from="1605863913687" duration="5000" />
+      <workItem from="1605874011545" duration="330000" />
+      <workItem from="1606121010827" duration="26216000" />
+      <workItem from="1606163664053" duration="5000" />
+      <workItem from="1606204717016" duration="3208000" />
+      <workItem from="1606301294916" duration="595000" />
+      <workItem from="1606386219244" duration="4000" />
+      <workItem from="1606467404970" duration="1407000" />
+      <workItem from="1606762326251" duration="1235000" />
+      <workItem from="1606824327236" duration="24273000" />
+      <workItem from="1607252041996" duration="6609000" />
+      <workItem from="1607340373650" duration="25823000" />
+      <workItem from="1607414866532" duration="7018000" />
+      <workItem from="1607447537752" duration="549000" />
+      <workItem from="1607451530295" duration="1121000" />
+      <workItem from="1607504406600" duration="597000" />
+      <workItem from="1607595526918" duration="10000" />
+      <workItem from="1607688009812" duration="1197000" />
+      <workItem from="1607766982291" duration="18673000" />
+      <workItem from="1607787900546" duration="8561000" />
+      <workItem from="1607896983277" duration="2329000" />
+      <workItem from="1607942074509" duration="16806000" />
+      <workItem from="1608019293556" duration="6982000" />
+      <workItem from="1608285528676" duration="2418000" />
+      <workItem from="1609257242982" duration="3214000" />
+      <workItem from="1609677723013" duration="694000" />
+      <workItem from="1609746732741" duration="5041000" />
+      <workItem from="1610107585892" duration="598000" />
+      <workItem from="1610214400192" duration="2412000" />
+      <workItem from="1610280499312" duration="598000" />
+      <workItem from="1618124958013" duration="1738000" />
+      <workItem from="1618383407434" duration="14000" />
+      <workItem from="1649419111437" duration="6538000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="530" y="177" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1649422068350">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="530" y="177" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1600.860@0.0.1600.860" timestamp="1649422068350" />
+    <state width="527" height="732" key="GridCell.Tab.0.bottom" timestamp="1649425036865">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="527" height="732" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1649425036865" />
+    <state width="527" height="732" key="GridCell.Tab.0.center" timestamp="1649425036865">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="527" height="732" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1649425036865" />
+    <state width="527" height="732" key="GridCell.Tab.0.left" timestamp="1649425036865">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="527" height="732" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1649425036865" />
+    <state width="527" height="732" key="GridCell.Tab.0.right" timestamp="1649425036865">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="527" height="732" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1649425036865" />
+    <state x="301" y="75" key="SettingsEditor" timestamp="1649422185850">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="301" y="75" key="SettingsEditor/0.0.1600.860@0.0.1600.860" timestamp="1649422185850" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/src$ex22_pickleFiles.coverage" NAME="ex22_pickleFiles Coverage Results" MODIFIED="1607384772665" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../FP/src/lecture/examples" />
+    <SUITE FILE_PATH="coverage/src$entity.coverage" NAME="entity Coverage Results" MODIFIED="1605449085343" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/domain" />
+    <SUITE FILE_PATH="coverage/src$ex30_iterators.coverage" NAME="ex30_iterators Coverage Results" MODIFIED="1607794445100" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../FP/src/lecture/examples" />
+    <SUITE FILE_PATH="coverage/src$tests.coverage" NAME="tests Coverage Results" MODIFIED="1605455133173" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testing" />
+    <SUITE FILE_PATH="coverage/src$Unittests_in_testing_py.coverage" NAME="Unittests in testing.py Coverage Results" MODIFIED="1608022733644" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests" />
+    <SUITE FILE_PATH="coverage/src$Unittests_in_test_py.coverage" NAME="Unittests in test.py Coverage Results" MODIFIED="1649419671965" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
+    <SUITE FILE_PATH="coverage/src$main.coverage" NAME="main Coverage Results" MODIFIED="1649424977241" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/src$testing.coverage" NAME="testing Coverage Results" MODIFIED="1606207441920" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests" />
+    <SUITE FILE_PATH="coverage/src$iterableclass.coverage" NAME="iterableclass Coverage Results" MODIFIED="1608025358042" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/domain" />
+    <SUITE FILE_PATH="coverage/src$repositories.coverage" NAME="repositories Coverage Results" MODIFIED="1607942812344" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/infrastructure" />
+    <SUITE FILE_PATH="coverage/src$service.coverage" NAME="service Coverage Results" MODIFIED="1607770554195" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/services" />
+  </component>
+</project>
